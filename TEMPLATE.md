@@ -1,8 +1,8 @@
-# Full Name 
+# Ayisha Naila
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a btech student pursuing career in information technology.Passionate about career in computer science field and i dedicate my willpower to attain maximum knowledge in STEM.I am interested in learning machine learning tools also both front end and back end development.I get on well with all kinds of people shortly i am adaptable in nature.I always try to keep me around positive energy.I am determined to study more about new upcoming technologies like artificial intelligence,data analysis,data science and so on.
 
 
 ## Portfolio Highlights
@@ -11,44 +11,24 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Project Name 1**  | Multiple unusual activity detection and alert system                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Loan prediction system using python                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+-I can nurture my leadership skills by supporting my team and learning about projects deeply.I am good at managing time this could influence people around me to be on time and do the work on time.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- By cultivating a good relationship with people can bring a drastic change in our lives becuase,with a group of people we can do more accurately rather than doing it alone.By expanding network it increases the commitment towards the work.
 
 #### Career Plan:
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+I am passionate about jobs in computer science field.Looking forward to dig in more knowledge about upcoming technologies.Have a thought on implementing robotics in agricultre.
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- The tech ecosystem has been growing and glowing.Kerala mainly focus on innovation and entrepreneuship.Lack of infrastructure still exist in kerala tech industry.
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
